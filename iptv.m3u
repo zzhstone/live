@@ -205,8 +205,6 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225672/2/index.
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226640/index.m3u8
 #EXTINF:-1,tvg-id="重庆少儿" tvg-name="重庆少儿" tvg-logo="https://epg.112114.xyz/logo/重庆少儿.png" group-title="少儿",重庆少儿
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f//index.m3u8
-#EXTINF:-1,tvg-id="小猪佩奇" tvg-name="小猪佩奇" tvg-logo="https://epg.112114.xyz/logo/小猪佩奇.png" group-title="少儿",小猪佩奇 
-http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
 #EXTINF:-1,tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://epg.112114.xyz/logo/浙江少儿.png" group-title="少儿",浙江少儿 
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿",海南少儿
