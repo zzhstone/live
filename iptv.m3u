@@ -2,6 +2,8 @@
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV4k" tvg-logo="https://epg.112114.xyz/logo/CCTV4k.png" group-title="央视IPV6",CCTV4k
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视IPV6",CCTV1
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
