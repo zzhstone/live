@@ -3,6 +3,7 @@ CCTV-4K,http://live.aptvapp.com/sxg.php?id=ys4Kcq_2000
 CCTV-16,http://live.aptvapp.com/sxg.php?id=CCTV-16-4K_8000
 4K超高清电影,http://live.aptvapp.com/sxg.php?id=ys4Kcq_2000
 欢笑剧场4K,http://live.aptvapp.com/sxg.php?id=hxjc-4k_8000
+北京淘电影,http://61.148.223.18:8888/newlive/live/hls/57/live.m3u8
 
 央视,#genre#
 
@@ -1346,4 +1347,3 @@ CHC动作电影,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224
 海宁新闻综合,http://live.hndachao.cn/xwzh/sd/live.m3u8?zzhed
 海宁生活服务,http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
-北京淘电影,http://61.148.223.18:8888/newlive/live/hls/57/live.m3u8
