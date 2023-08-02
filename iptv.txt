@@ -1,13 +1,15 @@
 4K,#genre#
+CCTV1-4K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+CCTV1-4K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 CCTV-4K,https://live.goodiptv.club/api/sxg.php?id=ys4Kcq_2000
-CCTV-4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
+CCTV-4K,http://live.aptvapp.com/sxg.php?id=ys4Kcq_2000
 CCTV-4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV-16,https://live.goodiptv.club/api/sxg.php?id=CCTV-16-4K_8000
-CCTV-16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
+CCTV-16,http://live.aptvapp.com/sxg.php?id=CCTV-16-4K_8000
 CCTV-16,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 4K超高清电影,https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
 欢笑剧场4K,https://live.goodiptv.club/api/sxg.php?id=hxjc-4k_8000
-欢笑剧场4K,https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
+欢笑剧场4K,http://live.aptvapp.com/sxg.php?id=hxjc-4k_8000
 欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 北京淘电影,http://61.148.223.18:8888/newlive/live/hls/57/live.m3u8
 
