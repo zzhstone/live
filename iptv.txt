@@ -47,22 +47,23 @@ CCTV16,http://jiexi.bulisite.top/bestv.php?id=cctv16hd8m/8000000
 CCTV17,http://jiexi.bulisite.top/bestv.php?id=cctv17hd8m/8000000
 
 
-CCTV1,http://jiexi.bulisite.top/ysp.php?id=cctv1
-CCTV2,http://jiexi.bulisite.top/ysp.php?id=cctv2
-CCTV3,http://jiexi.bulisite.top/ysp.php?id=cctv3
-CCTV4,http://jiexi.bulisite.top/ysp.php?id=cctv4
-CCTV5,http://jiexi.bulisite.top/ysp.php?id=cctv5
-CCTV5+,http://jiexi.bulisite.top/ysp.php?id=cctv5p
-CCTV6,http://jiexi.bulisite.top/ysp.php?id=cctv6
-CCTV7,http://jiexi.bulisite.top/ysp.php?id=cctv7
-CCTV8,http://jiexi.bulisite.top/ysp.php?id=cctv8
-CCTV9,http://jiexi.bulisite.top/ysp.php?id=cctv9
-CCTV10,http://jiexi.bulisite.top/ysp.php?id=cctv10
-CCTV11,http://jiexi.bulisite.top/ysp.php?id=cctv11
-CCTV12,http://jiexi.bulisite.top/ysp.php?id=cctv12
-CCTV13,http://jiexi.bulisite.top/ysp.php?id=cctv13
-CCTV14,http://jiexi.bulisite.top/ysp.php?id=cctv14
-CCTV15,http://jiexi.bulisite.top/ysp.php?id=cctv15
-CCTV17,http://jiexi.bulisite.top/ysp.php?id=cctv17
+CCTV1,https://live.goodiptv.club/api/ghyx.php?id=CCTV1HD_6000
+CCTV2,https://live.goodiptv.club/api/ghyx.php?id=CCTV2HD_6000
+CCTV3,https://live.goodiptv.club/api/ghyx.php?id=CCTV3HD_6000
+CCTV4,https://live.goodiptv.club/api/ghyx.php?id=CCTV4HD_6000
+CCTV5,https://live.goodiptv.club/api/ghyx.php?id=CCTV5HD_6000
+CCTV5+,https://live.goodiptv.club/api/ghyx.php?id=CCTV5plusHD_6000
+CCTV6,https://live.goodiptv.club/api/ghyx.php?id=CCTV6HD_6000
+CCTV7,https://live.goodiptv.club/api/ghyx.php?id=CCTV7HD_6000
+CCTV8,https://live.goodiptv.club/api/ghyx.php?id=CCTV8HD_6000
+CCTV9,https://live.goodiptv.club/api/ghyx.php?id=CCTV9HD_6000
+CCTV10,https://live.goodiptv.club/api/ghyx.php?id=CCTV10HD_6000
+CCTV11,https://live.goodiptv.club/api/ghyx.php?id=CCTV11HD2_6000
+CCTV12,https://live.goodiptv.club/api/ghyx.php?id=CCTV12HD_6000
+CCTV13,https://live.goodiptv.club/api/ghyx.php?id=CCTV13HD2_6000
+CCTV14,https://live.goodiptv.club/api/ghyx.php?id=CCTV14HD_6000
+CCTV15,https://live.goodiptv.club/api/ghyx.php?id=CCTV15HD_6000
+CCTV16,https://live.goodiptv.club/api/ghyx.php?id=CCTV16HD_6000
+CCTV17,https://live.goodiptv.club/api/ghyx.php?id=CCTV17HD_6000
 
 
