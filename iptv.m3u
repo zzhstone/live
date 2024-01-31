@@ -125,7 +125,7 @@ http://192.168.31.145:4425/rtp/239.93.0.219:5140
 http://192.168.31.145:4425/rtp/239.93.42.44:5140
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",四川乡村高清
 http://192.168.31.145:4425/rtp/239.93.0.52:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",峨眉电影高清
+#EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="四川",峨嵋电影高清
 http://192.168.31.145:4425/rtp/239.93.0.252:5140
 #EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",康巴卫视高清
 http://192.168.31.145:4425/rtp/239.93.0.41:5140
