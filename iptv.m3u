@@ -26,6 +26,8 @@ http://192.168.31.145:4425/rtp/239.93.1.28:5140
 http://192.168.31.145:4425/rtp/239.93.0.102:5140
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
 http://192.168.31.145:4425/rtp/239.93.1.30:8124
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
+http://192.168.31.145:4425/rtp/239.93.0.66:5140
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿高清
 http://192.168.31.145:4425/rtp/239.93.1.29:6000
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐高清
