@@ -63,6 +63,8 @@ http://192.168.31.145:4425/rtp/239.93.1.191:5140
 http://192.168.31.145:4425/rtp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",爱上4K
 http://192.168.31.145:4425/rtp/239.93.0.97:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4K视界专区
+http://192.168.31.145:4425/rtp/239.93.0.14:5140
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="4K",4K乐享超清
 http://192.168.31.145:4425/rtp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV-4K超高清
