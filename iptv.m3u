@@ -69,8 +69,8 @@ http://192.168.31.145:4425/rtp/239.93.0.14:5140
 http://192.168.31.145:4425/rtp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV-4K超高清
 http://192.168.31.145:4425/rtp/239.93.42.41:5140
-####EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV-4K超高清
-####http://192.168.31.145:4425/rtp/239.93.42.42:5140
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV-4K超高清
+http://192.168.31.145:4425/rtp/239.93.42.42:5140
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",欢笑剧场4K
 http://192.168.31.145:4425/rtp/239.93.0.145:5140
 #EXTINF:-1 tvg-id="186" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="4k",北京卫视4k
