@@ -9,33 +9,33 @@ http://192.168.31.145:4425/rtp/239.93.1.11:2223
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4中文国际
 http://192.168.31.145:4425/rtp/239.93.1.105:5140
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5高清
-http://192.168.31.145:4425/rtp/239.93.42.37:5140
+http://192.168.31.145:4425/rtp/239.93.0.12:5140
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
 http://192.168.31.145:4425/rtp/239.93.1.36:8004
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影高清
-http://192.168.31.145:4425/rtp/239.93.1.13:2226
+http://192.168.31.145:4425/rtp/239.93.0.13:5140
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事
 http://192.168.31.145:4425/rtp/239.93.1.67:5140
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧
-http://192.168.31.145:4425/rtp/239.93.42.39:5140
+http://192.168.31.145:4425/rtp/239.93.42.104:5140
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪录高清
 http://192.168.31.145:4425/rtp/239.93.1.24:5140
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教高清
 http://192.168.31.145:4425/rtp/239.93.1.28:5140
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲高清 
-http://192.168.31.145:4425/rtp/239.93.0.102:5140
+http://192.168.31.145:4425/rtp/239.93.42.105:5140
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
 http://192.168.31.145:4425/rtp/239.93.1.30:8124
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
-http://192.168.31.145:4425/rtp/239.93.0.66:5140
+http://192.168.31.145:4425/rtp/239.93.0.99:5140
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿高清
 http://192.168.31.145:4425/rtp/239.93.1.29:6000
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐高清
-http://192.168.31.145:4425/rtp/239.93.0.103:5140
+http://192.168.31.145:4425/rtp/239.93.42.106:5140
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥林匹克
 http://192.168.31.145:4425/rtp/239.93.42.54:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村
-http://192.168.31.145:4425/rtp/239.93.0.92:5140
+http://192.168.31.145:4425/rtp/239.93.42.107:5140
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台", 凤凰中文台
 http://192.168.31.145:4425/rtp/239.93.0.162:2192
@@ -73,6 +73,8 @@ http://192.168.31.145:4425/rtp/239.93.42.41:5140
 ####http://192.168.31.145:4425/rtp/239.93.42.42:5140
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",欢笑剧场4K
 http://192.168.31.145:4425/rtp/239.93.0.145:5140
+#EXTINF:-1 tvg-id="186" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="4k",北京卫视4k
+http://192.168.31.145:4425/rtp/239.93.42.102:5140
 #EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="地方",CETV-早期教育-HD
 http://192.168.31.145:4425/rtp/239.93.0.117:5140
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",CCTV-央视台球-HD
