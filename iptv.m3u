@@ -75,6 +75,12 @@ http://192.168.31.145:4425/rtp/239.93.42.42:5140
 http://192.168.31.145:4425/rtp/239.93.0.145:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="4k",北京卫视4k
 http://192.168.31.145:4425/rtp/239.93.42.102:5140
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="4k",深圳卫视4K
+http://192.168.31.145:4425/rtp/239.94.0.113:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="4k",广东卫视4K
+http://192.168.31.145:4425/rtp/239.94.0.114:5140
+
 #EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="地方",CETV-早期教育-HD
 http://192.168.31.145:4425/rtp/239.93.0.117:5140
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",CCTV-央视台球-HD
