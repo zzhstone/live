@@ -55,6 +55,8 @@ http://192.168.31.145:4425/rtp/239.93.42.24:5140
 http://192.168.31.145:4425/rtp/239.93.1.137:5140
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实高清
 http://192.168.31.145:4425/rtp/239.93.0.130:5140
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",中录动漫—4K
 http://192.168.31.145:4425/rtp/239.93.1.188:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",亲子趣学—4K
@@ -71,14 +73,17 @@ http://192.168.31.145:4425/rtp/239.93.0.43:5140
 http://192.168.31.145:4425/rtp/239.93.42.41:5140
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV-4K超高清
 http://192.168.31.145:4425/rtp/239.93.42.42:5140
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",欢笑剧场4K
-http://192.168.31.145:4425/rtp/239.93.0.145:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="4k",北京卫视4k
-http://192.168.31.145:4425/rtp/239.93.42.102:5140
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="4k",深圳卫视4K
+
+#EXTINF:-1 tvg-id="" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",欢笑剧场4K
+http://192.168.31.145:4425/rtp/239.93.0.145:5140
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://http://epg.51zmt.top:8000/tb1/qt/beijing.png" group-title="4k",北京卫视4k
+http://192.168.31.145:4425/rtp/239.93.42.102:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://http://epg.51zmt.top:8000/tb1/qt/shenzhen.png" group-title="4k",深圳卫视4K
 http://192.168.31.145:4425/rtp/239.94.0.113:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="4k",广东卫视4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://http://epg.51zmt.top:8000/tb1/qt/guangdong.png" group-title="4k",广东卫视4K
 http://192.168.31.145:4425/rtp/239.94.0.114:5140
 
 #EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="地方",CETV-早期教育-HD
