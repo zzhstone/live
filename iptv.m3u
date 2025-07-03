@@ -49,6 +49,14 @@ http://192.168.31.145:4425/rtp/239.93.42.5:5140
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
 http://192.168.31.145:4425/rtp/239.93.42.6:5140
 
+
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="4426",CHC动作电影
+http://192.168.31.145:4426/rtp/239.93.42.7:5140
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="4426",CHC高清电影
+http://192.168.31.145:4426/rtp/239.93.42.5:5140
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="4426",CHC家庭影院
+http://192.168.31.145:4426/rtp/239.93.42.6:5140
+
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",成都新闻综合
 http://192.168.31.145:4425/rtp/239.93.0.16:5140
 #EXTINF:-1 tvg-id="2065" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川",成都经济资讯
