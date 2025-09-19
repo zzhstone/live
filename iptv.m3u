@@ -43,26 +43,26 @@ http://192.168.31.145:4425/rtp/239.93.0.162:2192
 http://192.168.31.145:4425/rtp/239.93.0.118:2191
 
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
-http://192.168.31.145:4425/rtp/239.93.42.7:5140
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
-http://192.168.31.145:4425/rtp/239.93.42.5:5140
+http://192.168.31.145:4425/rtp/239.94.1.175:5140
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC影迷电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC影迷电影
+http://192.168.31.145:4425/rtp/239.94.1.174:5140
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
-http://192.168.31.145:4425/rtp/239.93.42.6:5140
+http://192.168.31.145:4425/rtp/239.94.1.173:5140
 
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",成都新闻综合
-http://192.168.31.145:4425/rtp/239.93.0.16:5140
+http://192.168.31.145:4425/rtp/239.94.0.154:5140
 #EXTINF:-1 tvg-id="2065" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川",成都经济资讯
-http://192.168.31.145:4425/rtp/239.93.0.17:1239
+http://192.168.31.145:4425/rtp/239.94.0.155:5140
 #EXTINF:-1 tvg-id="2066" tvg-name="CDTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="四川",成都都市生活
-http://192.168.31.145:4425/rtp/239.93.0.18:1238
+http://192.168.31.145:4425/rtp/239.94.0.156:5140
 #EXTINF:-1 tvg-id="2067" tvg-name="CDTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png" group-title="四川",成都影视文艺
-http://192.168.31.145:4425/rtp/239.93.0.19:1250
+http://192.168.31.145:4425/rtp/239.94.0.157:5140
 #EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="四川",成都公共频道
-http://192.168.31.145:4425/rtp/239.93.1.231:5140
+http://192.168.31.145:4425/rtp/239.94.0.158:5140
 #EXTINF:-1 tvg-id="2069" tvg-name="CDTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="四川",成都少儿频道
-http://192.168.31.145:4425/rtp/239.93.0.21:1251
+http://192.168.31.145:4425/rtp/239.94.0.159:5140
 #EXTINF:-1 tvg-id="2070" tvg-name="CDTV8" tvg-logo="" group-title="未分类",CDTV-8高清
-http://192.168.31.145:4425/rtp/239.93.0.22:1252
+http://192.168.31.145:4425/rtp/239.94.0.160:5140
 
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV-4K超高清
