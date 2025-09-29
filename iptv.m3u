@@ -66,9 +66,9 @@ http://192.168.31.145:4425/rtp/239.94.0.160:5140
 
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV-4K超高清
-http://192.168.31.145:4425/rtp/239.93.42.42:5140
+http://192.168.31.145:4425/rtp/239.94.0.20:5140
 #EXTINF:-1 tvg-id="" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",欢笑剧场4K
-http://192.168.31.145:4425/rtp/239.93.0.145:5140
+http://192.168.31.145:4425/rtp/239.94.1.176:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="4K",北京卫视4k
 http://192.168.31.145:4425/rtp/239.94.0.112:5140
@@ -92,15 +92,19 @@ http://192.168.31.145:4425/rtp/239.94.0.120:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",中录动漫—4K
 http://192.168.31.145:4425/rtp/239.93.1.188:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",亲子趣学—4K
-http://192.168.31.145:4425/rtp/239.93.1.191:5140
+http://192.168.31.145:4425/rtp/239.94.1.156:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",绚影4K
-http://192.168.31.145:4425/rtp/239.93.42.33:5140
+http://192.168.31.145:4425/rtp/239.94.1.150:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",爱上4K
 http://192.168.31.145:4425/rtp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4K视界专区
-http://192.168.31.145:4425/rtp/239.93.0.14:5140
+http://192.168.31.145:4425/rtp/239.94.1.60:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4K纪实专区
+http://192.168.31.145:4425/rtp/239.94.1.69:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4K少儿专区
+http://192.168.31.145:4425/rtp/239.94.1.70:5140
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="4K",4K乐享超清
-http://192.168.31.145:4425/rtp/239.93.0.43:5140
+http://192.168.31.145:4425/rtp/239.94.1.162:5140
 
 #EXTINF:-1 tvg-id="6581" tvg-name="" tvg-logo="" group-title="地方",经典电影专区
 http://192.168.31.145:4425/rtp/239.93.0.57:9024
