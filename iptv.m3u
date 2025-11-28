@@ -95,8 +95,8 @@ http://192.168.31.145:4425/rtp/239.93.1.188:5140
 http://192.168.31.145:4425/rtp/239.94.1.156:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",绚影4K
 http://192.168.31.145:4425/rtp/239.94.1.150:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",爱上4K
-http://192.168.31.145:4425/rtp/239.93.0.97:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4K乐享超清专区
+http://192.168.31.145:4425/rtp/239.94.1.162:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4K视界专区
 http://192.168.31.145:4425/rtp/239.94.1.60:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4K纪实专区
@@ -107,106 +107,104 @@ http://192.168.31.145:4425/rtp/239.94.1.70:5140
 http://192.168.31.145:4425/rtp/239.94.1.162:5140
 
 #EXTINF:-1 tvg-id="6581" tvg-name="" tvg-logo="" group-title="地方",经典电影专区
-http://192.168.31.145:4425/rtp/239.93.0.57:9024
+http://192.168.31.145:4425/rtp/239.94.1.21:5140
 #EXTINF:-1 tvg-id="6584" tvg-name="" tvg-logo="" group-title="地方",华语影院专区
 http://192.168.31.145:4425/rtp/239.94.1.22:5140
 #EXTINF:-1 tvg-id="6000" tvg-name="" tvg-logo="" group-title="地方",星光院线专区
-http://192.168.31.145:4425/rtp/239.93.42.87:5140
+http://192.168.31.145:4425/rtp/239.94.1.23:5140
 #EXTINF:-1 tvg-id="6568" tvg-name="" tvg-logo="" group-title="地方",全球大片专区
-http://192.168.31.145:4425/rtp/239.93.42.90:5140
+http://192.168.31.145:4425/rtp/239.94.1.24:5140
 #EXTINF:-1 tvg-id="6560" tvg-name="" tvg-logo="" group-title="地方",热播剧场专区
-http://192.168.31.145:4425/rtp/239.93.0.56:9020
+http://192.168.31.145:4425/rtp/239.94.1.25:5140
 #EXTINF:-1 tvg-id="6558" tvg-name="" tvg-logo="" group-title="地方",热门剧场专区
-http://192.168.31.145:4425/rtp/239.93.42.88:5140
+http://192.168.31.145:4425/rtp/239.94.1.26:5140
 #EXTINF:-1 tvg-id="6562" tvg-name="" tvg-logo="" group-title="地方",健康养生专区
-http://192.168.31.145:4425/rtp/239.93.42.84:5140
+http://192.168.31.145:4425/rtp/239.94.1.27:5140
 #EXTINF:-1 tvg-id="6563" tvg-name="" tvg-logo="" group-title="地方",谍战剧场专区
-http://192.168.31.145:4425/rtp/239.93.42.91:5140
+http://192.168.31.145:4425/rtp/239.94.1.28:5140
 #EXTINF:-1 tvg-id="6569" tvg-name="" tvg-logo="" group-title="地方",宝宝动画专区	
-http://192.168.31.145:4425/rtp/239.93.42.89:5140
+http://192.168.31.145:4425/rtp/239.94.1.32:5140
 #EXTINF:-1 tvg-id="6564" tvg-name="" tvg-logo="" group-title="地方",少儿动画高清专区
-http://192.168.31.145:4425/rtp/239.93.0.193:9000
+http://192.168.31.145:4425/rtp/239.94.1.33:5140
 #EXTINF:-1 tvg-id="6564" tvg-name="" tvg-logo="" group-title="地方",青春动漫专区
-http://192.168.31.145:4425/rtp/239.93.0.146:5140
+http://192.168.31.145:4425/rtp/239.94.1.34:5140
 #EXTINF:-1 tvg-id="6564" tvg-name="" tvg-logo="" group-title="地方",热门综艺高清专区
-http://192.168.31.145:4425/rtp/239.93.0.151:5140
+http://192.168.31.145:4425/rtp/239.94.1.35:5140
 #EXTINF:-1 tvg-id="6564" tvg-name="" tvg-logo="" group-title="地方",音乐现场高清专区
-http://192.168.31.145:4425/rtp/239.93.0.198:9044
+http://192.168.31.145:4425/rtp/	239.94.1.36:5140
 #EXTINF:-1 tvg-id="6564" tvg-name="电竞天堂" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dianjingtiantang.png" group-title="地方",电竞天堂高清专区
-http://192.168.31.145:4425/rtp/239.93.1.135:5140
+http://192.168.31.145:4425/rtp/239.94.1.45:5140
 #EXTINF:-1 tvg-id="6564" tvg-name="" tvg-logo="" group-title="地方",红色影院专区
-http://192.168.31.145:4425/rtp/239.93.0.202:9068
+http://192.168.31.145:4425/rtp/239.94.1.48:5140
 #EXTINF:-1 tvg-id="6564" tvg-name="" tvg-logo="" group-title="地方",经典剧场专区
-http://192.168.31.145:4425/rtp/239.93.0.203:9072
+http://192.168.31.145:4425/rtp/239.94.1.49:5140
 
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视高清
-http://192.168.31.145:4425/rtp/239.93.0.88:5140
+http://192.168.31.145:4425/rtp/239.94.0.61:5140
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视高清
-http://192.168.31.145:4425/rtp/239.93.0.89:5140
+http://192.168.31.145:4425/rtp/239.94.0.62:5140
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视高清
-http://192.168.31.145:4425/rtp/239.93.0.124:5140
+http://192.168.31.145:4425/rtp/239.94.0.63:5140
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视高清
-http://192.168.31.145:4425/rtp/239.93.0.123:5140
+http://192.168.31.145:4425/rtp/239.94.0.64:5140
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视高清
-http://192.168.31.145:4425/rtp/239.93.0.180:5140
+http://192.168.31.145:4425/rtp/239.94.0.65:5140
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视高清
-http://192.168.31.145:4425/rtp/239.93.0.182:5140
+http://192.168.31.145:4425/rtp/239.94.0.66:5140
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视高清
-http://192.168.31.145:4425/rtp/239.93.0.181:5140
+http://192.168.31.145:4425/rtp/239.94.0.67:5140
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视高清
-http://192.168.31.145:4425/rtp/239.93.0.167:5140
+http://192.168.31.145:4425/rtp/239.94.0.68:5140
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视高清
-http://192.168.31.145:4425/rtp/239.93.0.168:5140
+http://192.168.31.145:4425/rtp/239.94.0.69:5140
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视高清
 http://192.168.31.145:4425/rtp/239.93.0.20:1235
 #EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="四川",四川经济高清
-http://192.168.31.145:4425/rtp/239.93.1.101:5140
+http://192.168.31.145:4425/rtp/239.94.0.71:5140
 #EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="四川",四川文化旅游
-http://192.168.31.145:4425/rtp/239.93.1.102:5140
+http://192.168.31.145:4425/rtp/239.94.0.70:5140
 #EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="四川",四川新闻高清
-http://192.168.31.145:4425/rtp/239.93.0.47:5140
+http://192.168.31.145:4425/rtp/239.94.0.72:5140
 #EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="四川",四川影视文艺
-http://192.168.31.145:4425/rtp/239.93.0.166:5140
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="四川",四川星空购物
-http://192.168.31.145:4425/rtp/239.93.1.144:5140
+http://192.168.31.145:4425/rtp/239.94.0.73:5140
+#EXTINF:-1 tvg-id="7245" tvg-name="SCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv6.png" group-title="四川",四川星空购物
+http://192.168.31.145:4425/rtp/239.94.0.74:5140
 #EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="四川",四川妇女儿童
-http://192.168.31.145:4425/rtp/239.93.0.219:5140
+http://192.168.31.145:4425/rtp/239.94.0.75:5140
 #EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="四川",四川科教高清
 http://192.168.31.145:4425/rtp/239.93.42.44:5140
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="四川",四川乡村高清
-http://192.168.31.145:4425/rtp/239.93.0.52:5140
+http://192.168.31.145:4425/rtp/239.94.0.77:5140
 #EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="四川",峨嵋电影高清
-http://192.168.31.145:4425/rtp/239.93.0.252:5140
+http://192.168.31.145:4425/rtp/239.94.0.103:5140
 #EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",康巴卫视高清
-http://192.168.31.145:4425/rtp/239.93.0.41:5140
+http://192.168.31.145:4425/rtp/239.94.0.78:5140
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视高清
-http://192.168.31.145:4425/rtp/239.93.0.134:5140
+http://192.168.31.145:4425/rtp/239.94.0.79:5140
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视高清
-http://192.168.31.145:4425/rtp/239.93.0.42:5140
+http://192.168.31.145:4425/rtp/239.94.0.80:5140
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视高清
-http://192.168.31.145:4425/rtp/239.93.0.183:5140
+http://192.168.31.145:4425/rtp/239.94.0.81:5140
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://192.168.31.145:4425/rtp/239.93.1.107:5140
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视高清
-http://192.168.31.145:4425/rtp/239.93.0.131:5140
+http://192.168.31.145:4425/rtp/239.94.0.83:5140
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视高清
-http://192.168.31.145:4425/rtp/239.93.0.250:5140
+http://192.168.31.145:4425/rtp/239.94.0.84:5140
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视高清
-http://192.168.31.145:4425/rtp/239.93.1.106:5140
+http://192.168.31.145:4425/rtp/239.94.0.85:5140
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视高清
-http://192.168.31.145:4425/rtp/239.93.0.132:5140
+http://192.168.31.145:4425/rtp/239.94.0.86:5140
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视高清
-http://192.168.31.145:4425/rtp/239.93.1.108:5140
+http://192.168.31.145:4425/rtp/239.94.0.101:5140
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视高清
-http://192.168.31.145:4425/rtp/239.93.42.45:5140
+http://192.168.31.145:4425/rtp/239.94.0.88:5140
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视高清
-http://192.168.31.145:4425/rtp/239.93.42.46:5140
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视高清
-http://192.168.31.145:4425/rtp/239.93.42.45:5140
+http://192.168.31.145:4425/rtp/239.94.0.89:5140
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视高清
-http://192.168.31.145:4425/rtp/239.93.1.174:5140
+http://192.168.31.145:4425/rtp/239.94.0.90:5140
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视高清
-http://192.168.31.145:4425/rtp/239.93.0.248:5140
+http://192.168.31.145:4425/rtp/239.94.0.91:5140
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
 http://192.168.31.145:4425/rtp/239.93.0.6:5140
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
@@ -219,99 +217,7 @@ http://192.168.31.145:4425/rtp/239.93.0.142:5140
 http://192.168.31.145:4425/rtp/239.93.1.151:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南茶高清
 http://192.168.31.145:4425/rtp/239.93.0.114:5140
-
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",CETV-1高清
 http://192.168.31.145:4425/rtp/239.94.1.2:5140
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱生活高清
-http://192.168.31.145:4425/rtp/239.93.0.206:8028
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",足球高清
-http://192.168.31.145:4425/rtp/239.93.0.197:9040
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",墨宝高清
-http://192.168.31.145:4425/rtp/239.93.0.215:9132
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",军事高清
-http://192.168.31.145:4425/rtp/239.93.0.204:9076
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",解密高清
-http://192.168.31.145:4425/rtp/239.93.0.199:9048
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",地理高清
-http://192.168.31.145:4425/rtp/239.93.0.200:9052
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",传奇
-http://192.168.31.145:4425/rtp/239.93.0.235:1282
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",每日影院
-http://192.168.31.145:4425/rtp/239.93.42.35:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱怀旧高清
-http://192.168.31.145:4425/rtp/239.93.42.21:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱喜剧高清
-http://192.168.31.145:4425/rtp/239.93.42.9:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱奇谈高清
-http://192.168.31.145:4425/rtp/239.93.42.22:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱科幻高清
-http://192.168.31.145:4425/rtp/239.93.42.10:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱院线高清
-http://192.168.31.145:4425/rtp/239.93.42.11:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",幸福剧场
-http://192.168.31.145:4425/rtp/239.93.42.21:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱谍战高清
-http://192.168.31.145:4425/rtp/239.93.42.14:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱经典高清
-http://192.168.31.145:4425/rtp/239.93.42.13:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱悬疑高清
-http://192.168.31.145:4425/rtp/239.93.42.12:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱青春高清
-http://192.168.31.145:4425/rtp/239.93.42.16:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱都市高清
-http://192.168.31.145:4425/rtp/239.93.42.15:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱幼教高清
-http://192.168.31.145:4425/rtp/239.93.42.17:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱玩具高清
-http://192.168.31.145:4425/rtp/239.93.42.18:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱动漫高清
-http://192.168.31.145:4425/rtp/239.93.42.23:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱电竞高清
-http://192.168.31.145:4425/rtp/239.93.42.19:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱公共汽车高清
-http://192.168.31.145:4425/rtp/239.93.42.20:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱宠宠物
-http://192.168.31.145:4425/rtp/239.93.42.32:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",风尚生活
-http://192.168.31.145:4425/rtp/239.93.42.29:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",幸福娱乐
-http://192.168.31.145:4425/rtp/239.93.42.31:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",来钓鱼吧
-http://192.168.31.145:4425/rtp/239.93.42.8:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",麻辣体育
-http://192.168.31.145:4425/rtp/239.93.42.2:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱成都
-http://192.168.31.145:4425/rtp/239.93.1.104:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",来钓鱼吧高清
-http://192.168.31.145:4425/rtp/239.93.42.8:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",少儿天地高清
-http://192.168.31.145:4425/rtp/239.93.42.34:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",体育测试高清
-http://192.168.31.145:4425/rtp/239.93.0.98:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",综艺咖秀高清
-http://192.168.31.145:4425/rtp/239.93.1.175:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",红色经典高清
-http://192.168.31.145:4425/rtp/239.93.1.176:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动画番剧高清
-http://192.168.31.145:4425/rtp/239.93.1.177:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",熊猫直播高清
-http://192.168.31.145:4425/rtp/239.93.1.178:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",乐龄学堂高清
-http://192.168.31.145:4425/rtp/239.93.1.179:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",第一财*高清
-http://192.168.31.145:4425/rtp/239.93.1.187:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BesTV华语影院
-http://192.168.31.145:4425/rtp/239.93.42.86:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精彩影视-HD
-http://192.168.31.145:4425/rtp/239.93.42.92:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动漫秀场-HD
-http://192.168.31.145:4425/rtp/239.93.42.93:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",乐游-HD
-http://192.168.31.145:4425/rtp/239.93.42.94:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金色学堂-HD
-http://192.168.31.145:4425/rtp/239.93.42.95:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",法治天地-HD
-http://192.168.31.145:4425/rtp/239.93.42.96:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅力足球-HD
-http://192.168.31.145:4425/rtp/239.93.42.97:5140
+
